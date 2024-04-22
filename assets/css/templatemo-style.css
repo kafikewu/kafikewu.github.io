@@ -234,7 +234,7 @@ html {
     left: 0%;
   -webkit-transition: -webkit-transform 233ms cubic-bezier(0, 0, 0.21, 1);
   -webkit-overflow-scrolling: touch;
-  background-color: rgba(0, 0, 0, 0.1);
+  background-color: rgba(0, 0, 0, 1);
   box-sizing: border-box;
   height: 100vh;  
   max-height: 100vh !important;
@@ -331,7 +331,7 @@ html {
 }
 
 .colored-text {
-    border-left: 5px solid rgba(164, 63, 73, 1);
+    border-left: 5px solid rgba(0, 0, 0, 1);
     background-color: transparent; /* Set your desired background color */
     padding: 10px; /* Adjust the padding to control the colored area's width */
     color: white; /* Set text color for contrast */
